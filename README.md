@@ -14,11 +14,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 2      |
-| Strings             | 0      |
-| Hashing             | 1      |
+| Strings             | 4      |
+| Hashing             | 2      |
 | Two Pointers        | 8      |
 | Sliding Window      | 0      |
-| Binary Search       | 0      |
+| Binary Search       | 4      |
 | Linked List         | 0      |
 | Stack               | 0      |
 | Queue               | 0      |
@@ -26,7 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 
-Total Problems Solved: 11
+Total Problems Solved: 20
 
 ## DSA Patterns Covered
 
