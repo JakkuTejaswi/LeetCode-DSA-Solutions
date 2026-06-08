@@ -1,32 +1,35 @@
 # LeetCode DSA Solutions
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode.
+Welcome to my LeetCode DSA Solutions repository! 🚀
 
-## Goals
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems from LeetCode, implemented in Python. The primary goal is to improve problem-solving skills, strengthen algorithmic thinking, and prepare for technical interviews through consistent practice.
 
-* Strengthen problem-solving skills.
-* Prepare for coding interviews.
-* Master common DSA patterns.
-* Build consistency through daily practice.
+## Objectives
 
-## Progress
+* Develop strong problem-solving and analytical skills.
+* Master common DSA patterns and techniques.
+* Build consistency through daily coding practice.
+* Prepare for coding interviews and competitive programming.
+* Maintain a structured record of solved problems.
+
+## Progress Tracker
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 9      |
+| Arrays              | 12     |
 | Strings             | 4      |
 | Hashing             | 2      |
 | Two Pointers        | 9      |
 | Sliding Window      | 0      |
 | Binary Search       | 4      |
 | Linked List         | 0      |
-| Stack               | 0      |
+| Stack               | 5      |
 | Queue               | 0      |
 | Trees               | 0      |
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 
-Total Problems Solved: 28
+**Total Problems Solved:** 36
 
 ## DSA Patterns Covered
 
@@ -35,20 +38,46 @@ Total Problems Solved: 28
 * Sliding Window
 * Fast & Slow Pointers
 * Binary Search
-* DFS
-* BFS
+* Depth First Search (DFS)
+* Breadth First Search (BFS)
 * Backtracking
 * Dynamic Programming
 * Greedy Algorithms
+* Monotonic Stack
+* Prefix Sum
 
-## Language
+## Language Used
 
-Python
+* Python
 
-## Daily Goal
+## Daily Challenge
 
-* 3–5 DSA problems per day
-* Focus on one pattern at a time
-* Update repository consistently
+* Solve 3–5 LeetCode problems daily.
+* Focus on mastering one pattern at a time.
+* Write clean and optimized solutions.
+* Update the repository consistently.
+* Review previously solved problems regularly.
 
+## Repository Structure
 
+```text
+Arrays/
+Strings/
+Hashing/
+Two_Pointers/
+Binary_Search/
+Stack/
+Linked_List/
+Trees/
+Graphs/
+Dynamic_Programming/
+```
+
+## Future Goals
+
+* Solve 300+ LeetCode problems.
+* Master advanced topics such as Graphs, Trees, and Dynamic Programming.
+* Improve problem-solving speed and optimization skills.
+* Build a strong foundation for Software Engineering and Machine Learning interviews.
+
+⭐ If you find this repository helpful, feel free to star it and follow my coding journey!
