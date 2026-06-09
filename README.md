@@ -22,14 +22,14 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Two Pointers        | 9      |
 | Sliding Window      | 0      |
 | Binary Search       | 4      |
-| Linked List         | 0      |
-| Stack               | 5      |
+| Linked List         | 6      |
+| Stack               | 9      |
 | Queue               | 0      |
 | Trees               | 0      |
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 
-**Total Problems Solved:** 36
+**Total Problems Solved:** 46
 
 ## DSA Patterns Covered
 
@@ -45,6 +45,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 * Greedy Algorithms
 * Monotonic Stack
 * Prefix Sum
+* Linked List
 
 ## Language Used
 
