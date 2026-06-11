@@ -16,11 +16,11 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 12     |
-| Strings             | 4      |
-| Hashing             | 2      |
-| Two Pointers        | 10     |
-| Sliding Window      | 0      |
+| Arrays              | 14     |
+| Strings             | 7      |
+| Hashing             | 4      |
+| Two Pointers        | 11     |
+| Sliding Window      | 2      |
 | Binary Search       | 4      |
 | Linked List         | 6      |
 | Stack               | 11     |
@@ -29,7 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 
-**Total Problems Solved:** 52
+**Total Problems Solved:** 62
 
 ## DSA Patterns Covered
 
