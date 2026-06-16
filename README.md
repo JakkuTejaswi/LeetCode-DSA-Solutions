@@ -29,7 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 
-**Total Problems Solved:** 62
+**Total Problems Solved:** 65
 
 ## DSA Patterns Covered
 
