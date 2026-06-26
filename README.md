@@ -16,21 +16,21 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 18     |
+| Arrays              | 19     |
 | Strings             | 7      |
 | Hashing             | 4      |
-| Two Pointers        | 11     |
+| Two Pointers        | 12     |
 | Sliding Window      | 2      |
 | Binary Search       | 4      |
 | Linked List         | 6      |
 | Stack               | 12     |
 | Queue               | 3      |
-| Trees               | 12     |
+| Trees               | 14     |
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 | Recursion           | 3      |
 
-**Total Problems Solved:** 82
+**Total Problems Solved:** 86
 
 ## DSA Patterns Covered
 
