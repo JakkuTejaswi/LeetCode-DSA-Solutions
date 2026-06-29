@@ -23,14 +23,14 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Sliding Window      | 2      |
 | Binary Search       | 4      |
 | Linked List         | 6      |
-| Stack               | 12     |
+| Stack               | 13     |
 | Queue               | 3      |
-| Trees               | 17     |
+| Trees               | 19     |
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 | Recursion           | 3      |
 
-**Total Problems Solved:** 92
+**Total Problems Solved:** 95
 
 ## DSA Patterns Covered
 
