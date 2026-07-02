@@ -25,12 +25,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Linked List         | 6      |
 | Stack               | 13     |
 | Queue               | 3      |
-| Trees               | 22     |
+| Trees               | 23     |
 | Graphs              | 0      |
 | Dynamic Programming | 0      |
 | Recursion           | 3      |
 
-**Total Problems Solved:** 101
+**Total Problems Solved:** 102
 
 ## DSA Patterns Covered
 
