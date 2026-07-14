@@ -16,7 +16,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 26     |
+| Arrays              | 27     |
 | Strings             | 7      |
 | Hashing             | 7      |
 | Two Pointers        | 12     |
@@ -30,7 +30,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Dynamic Programming | 0      |
 | Recursion           | 3      |
 
-**Total Problems Solved:** 112
+**Total Problems Solved:** 113
 
 ## DSA Patterns Covered
 
