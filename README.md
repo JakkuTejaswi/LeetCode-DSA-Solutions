@@ -26,7 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | Stack               | 13     |
 | Queue               | 3      |
 | Trees               | 26     |
-| Graphs              | 3      |
+| Graphs              | 4      |
 | Dynamic Programming | 0      |
 | Recursion           | 3      |
 
